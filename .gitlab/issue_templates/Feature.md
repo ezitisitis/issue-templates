@@ -26,3 +26,4 @@ What permissions are required to perform the described actions? Are they consist
 ### Links / references
 
 /label ~feature
+/estimate
