@@ -1,0 +1,14 @@
+{
+    "name": "ezitisitis/issue-templates",
+    "description": "This package contains GitLab issue templates",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marks Ezitis Bogdanovs",
+            "email": "mail@ezitisitis.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
