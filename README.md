@@ -15,3 +15,10 @@ For start of this repository information was taken here:
 - https://gitlab.com/gitlab-org/gitlab/tree/master/.gitlab/issue_templates
 
 So BIG THANKS to GitLab!
+
+
+## FAQ
+
+**Why only GitLab issue template?**
+
+Most of the work we do- happens in GitLab, so currently this repository contains only GitLab issue  template
