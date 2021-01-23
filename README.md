@@ -16,6 +16,7 @@ For start of this repository information was taken here:
 
 So BIG THANKS to GitLab!
 
+[GitHub](https://github.com/ezitisitis/issue-templates)
 
 ## FAQ
 
